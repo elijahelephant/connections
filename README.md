@@ -39,7 +39,7 @@ From gold to milk:
  - mile
  - milk
 
-# Maze
+### Maze
 
 From aaaa to hhll:
  - aaaa
